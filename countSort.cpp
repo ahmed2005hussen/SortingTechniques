@@ -1,6 +1,8 @@
 // Sorting Technique
 // Created by ahmed on 20/02/2025.
 
+// Not stable version 
+
 #include <iostream>
 
 using namespace std;
